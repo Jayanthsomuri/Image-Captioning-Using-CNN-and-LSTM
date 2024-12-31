@@ -1,4 +1,4 @@
-# Image Captioning Using CNN and LSTM
+# Image Captioning Using CNN and LSTM and attension mechanism
 Caption generation is a challenging artificial intelligence problem where a textual description must be generated for a given photograph.
 
 It requires both methods from computer vision to understand the content of the image and a language model from the field of natural language processing to turn the understanding of the image into words in the right order. Recently, deep learning methods have achieved state-of-the-art results on examples of this problem.
